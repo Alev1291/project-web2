@@ -1,0 +1,33 @@
+.nav{
+width: 1535px;
+height: 50px;
+background-color: dimgray;
+text-decoration:none;
+padding-top: 10px;
+padding-left: 20px;
+}
+.jumbotron{
+height: 200px;
+padding-top: 30px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: brown;
+}
+.card{
+    padding-left: 670px;
+}
+.main{
+margin-left: 600px;
+}
+body .nav a{
+    margin-left: 20px;
+    text-decoration: none;
+}
+body .nav a:hover{
+    text-decoration: underline;
+}
+body .jumbotron p{
+    padding-left: 600px;
+}
+body .jumbotron h1{
+    padding-left: 650px;
+}
